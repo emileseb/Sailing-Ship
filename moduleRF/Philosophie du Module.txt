@@ -1,0 +1,3 @@
+Etape 1 :
+	- On simule la sortie du capteur RF avec le GBF à 40/41 MHz
+	- 
